@@ -13,11 +13,11 @@
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/nghaosiong98/nghaosiong98/blob/master/img/gastby.png" />
-<img align="left" alt="Python" width="26px" src="img/python.png" />
-<img align="left" alt="Java" width="26px" src="img/java.png" />
-<img align="left" alt="JavaScript" width="26px" src="img/javascript.png" />
-<img align="left" alt="React" width="26px" src="img/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="img/gastby.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/nghaosiong98/nghaosiong98/blob/master/img/python.png" />
+<img align="left" alt="Java" width="26px" src="https://github.com/nghaosiong98/nghaosiong98/blob/master/img/java.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/nghaosiong98/nghaosiong98/blob/master/img/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://github.com/nghaosiong98/nghaosiong98/blob/master/img/react.png" />
+<img align="left" alt="Gatsby" width="26px" src="https://github.com/nghaosiong98/nghaosiong98/blob/master/img/gastby.png" />
 
 <br />
 <br />
