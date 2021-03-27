@@ -1,7 +1,9 @@
 ### Hi there, I'm Hao Siong 👋
 
-- I’m currently studing Computer Science at [University of Malaya](https://fsktm.um.edu.my/)!
-- I’m currently learning web development and machine learning!
+- A Computer Science graduate from [University of Malaya](https://fsktm.um.edu.my/)!
+- Passionate learner.
+- Focus on best practices.
+- Tech lover.
 
 ### Connect with me:
 
