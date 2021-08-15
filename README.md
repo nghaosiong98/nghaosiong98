@@ -1,9 +1,8 @@
 ### Hi there, I'm Hao Siong 👋
-
-- A Computer Science graduate from [University of Malaya](https://fsktm.um.edu.my/)!
-- Passionate learner.
-- Focus on best practices.
-- Tech lover.
+ 
+- ⚛️ I develop frontend with ReactJS
+- 🔧 I am improving my skill in build a robust frontend with different tools and frameworks
+- 😁 I enjoy learning new stuffs
 
 ### Connect with me:
 
